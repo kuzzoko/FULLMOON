@@ -2366,7 +2366,6 @@ local function BFPWBAT_fake_script() -- UESP1.Notification
 	Frame.BorderSizePixel = 0
 	Frame.Position = UDim2.new(0.340300471, 0, 0.164197534, 0)
 	Frame.Size = UDim2.new(0, 487, 0, 76)
-	Frame.Image = "http://www.roblox.com/asset/?id=15589967224"
 	Frame.ScaleType = Enum.ScaleType.Crop
 	UICorner.CornerRadius = UDim.new(0, 4)
 	UICorner.Parent = Frame
